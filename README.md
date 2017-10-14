@@ -1,6 +1,12 @@
 # SensuLaMusica
-IBM Watson/real-time-tone-analysis; then plays a song depending on how you feel
-Get the tone analysis service & the Watson speech to text service from Bluemix. Get the usernames & passwords and plug them into the vrap.json file.
+IBM Watson/real-time-tone-analysis; then plays a song depending on how you feel.
+Get the tone analysis service & the Watson speech to text service from Bluemix at https://console.bluemix.net/dashboard/apps?env_id=ibm%3Ayp%3Aus-south.
+#
+Download the Cloud Foundry Tool here:https://github.com/cloudfoundry/cli#downloads.
+Also download Node.js if you haven't already.
+#
+Additionally, link the endpoints to your main CLI app, which you could call real-time-tone-analysizer. Get the usernames & passwords and plug them into the vcap.json file.
+#
 Follow this guide to get to final steps:https://github.com/IBM-Bluemix/real-time-tone-analysis.
 #
 Edit the index.html depending on your style preference after it is copied into your tone analyzer folder.
