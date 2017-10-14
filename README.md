@@ -4,3 +4,6 @@ Get the tone analysis service & the Watson speech to text service from Bluemix. 
 Follow this guide to get to final steps:https://github.com/IBM-Bluemix/real-time-tone-analysis.
 #
 Edit the index.html depending on your style preference after it is copied into your tone analyzer folder.
+Every time you edit the files, remember to save and run the command
+
+$ npm start
