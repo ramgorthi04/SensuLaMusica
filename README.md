@@ -1,5 +1,5 @@
 # SensuLaMusica
-IBM Watson/real-time-tone-analysis; then plays a song depending on how you feel.
+Something that reads your emotion using Watson API; then plays music depending on your mood.
 Get the tone analysis service & the Watson speech to text service from Bluemix at https://console.bluemix.net/dashboard/apps?env_id=ibm%3Ayp%3Aus-south.
 #
 Download the Cloud Foundry Tool here:https://github.com/cloudfoundry/cli#downloads.
